@@ -1,0 +1,6 @@
+# Write a python program to find index of element.
+
+l = ['a', 2.34, 5, "hello", True, 'world', 3.24]
+print("The list is: ", l)
+
+print("The index of 'a' is: ", l.index['a'])
