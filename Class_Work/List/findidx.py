@@ -1,4 +1,4 @@
-# Write a python program to find index of element.
+# Write a python program to find the index of element.
 
 l = ['a', 2.34, 5, "hello", True, 'world', 3.24]
 print("The list is: ", l)
