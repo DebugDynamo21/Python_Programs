@@ -3,7 +3,7 @@
 L = [8, 2, 5, 1, 3]
 L.sort()
 
-print("List", L)
+print("List: ", L)
 
 maxProd = L[-1] * L[-2]
 
